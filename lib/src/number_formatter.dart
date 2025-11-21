@@ -8,6 +8,7 @@ class UzbekNumberFormatter {
   /// This is a utility class with only static methods, so
   /// instantiation is not necessary.
   const UzbekNumberFormatter();
+
   /// Formats a number with space separators every three digits.
   ///
   /// Example: 12500000 -> "12 500 000"

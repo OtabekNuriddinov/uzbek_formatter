@@ -8,6 +8,7 @@ class UzbekDateFormatter {
   /// This is a utility class with only static methods, so
   /// instantiation is not necessary.
   const UzbekDateFormatter();
+
   /// List of Uzbek month names in order (January to December).
   static const List<String> months = [
     'Yanvar', 'Fevral', 'Mart', 'Aprel', 'May', 'Iyun',

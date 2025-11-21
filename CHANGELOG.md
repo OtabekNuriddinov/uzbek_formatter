@@ -1,4 +1,10 @@
-## 0.0.3
+## 0.0.5
+
+* Removed library name declaration to fix static analysis issues
+* Fixed code formatting to match Dart formatter standards
+* Improved code style and consistency across all files
+
+## 0.0.4
 
 * Fixed HijriConverter formula for accurate year conversion
 * Added documentation for all public API elements (constructors and library)

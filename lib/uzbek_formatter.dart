@@ -5,10 +5,6 @@
 /// - [UzbekDateFormatter]: Format dates with Uzbek month names
 /// - [UzbekNumberFormatter]: Format numbers and currency in Uzbek format
 /// - [HijriConverter]: Convert between Miladi and Hijri calendar years
-library uzbek_formatter;
-
 export 'src/date_formatter.dart';
 export 'src/number_formatter.dart';
 export 'src/hijri_converter.dart';
-
-
