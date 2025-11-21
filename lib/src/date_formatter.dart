@@ -11,8 +11,18 @@ class UzbekDateFormatter {
 
   /// List of Uzbek month names in order (January to December).
   static const List<String> months = [
-    'Yanvar', 'Fevral', 'Mart', 'Aprel', 'May', 'Iyun',
-    'Iyul', 'Avgust', 'Sentabr', 'Oktabr', 'Noyabr', 'Dekabr'
+    'Yanvar',
+    'Fevral',
+    'Mart',
+    'Aprel',
+    'May',
+    'Iyun',
+    'Iyul',
+    'Avgust',
+    'Sentabr',
+    'Oktabr',
+    'Noyabr',
+    'Dekabr'
   ];
 
   /// Formats a [DateTime] object into Uzbek date format.

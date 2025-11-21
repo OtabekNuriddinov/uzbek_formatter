@@ -1,6 +1,6 @@
 name: uzbek_formatter
 description: "Uzbek date, number, and Hijri-Miladi formatting library for Flutter & Dart."
-version: 0.0.5
+version: 0.0.6
 homepage: https://github.com/OtabekNuriddinov/uzbek_formatter
 repository: https://github.com/OtabekNuriddinov/uzbek_formatter
 issue_tracker: https://github.com/OtabekNuriddinov/uzbek_formatter/issues

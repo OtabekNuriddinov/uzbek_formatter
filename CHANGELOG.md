@@ -1,3 +1,10 @@
+## 0.0.6
+
+* Applied Dart style guide formatting
+* Removed unnecessary blank lines
+* Improved code formatting consistency
+* Fixed months list formatting in date_formatter.dart
+
 ## 0.0.5
 
 * Removed library name declaration to fix static analysis issues
