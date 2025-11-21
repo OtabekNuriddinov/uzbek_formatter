@@ -2,6 +2,11 @@
 ///
 /// This class provides methods to convert years between the two calendar systems.
 class HijriConverter {
+  /// Creates a new instance of [HijriConverter].
+  ///
+  /// This is a utility class with only static methods, so
+  /// instantiation is not necessary.
+  const HijriConverter();
   /// The offset between Miladi and Hijri calendars (year of Hijra: 622 CE).
   static const int hijriOffset = 622;
 
